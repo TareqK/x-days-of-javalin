@@ -32,7 +32,8 @@ To get the best out of this course, you should at least
 1. Have a good grasp of Java syntax and Object-Oriented programming
 2. Have a beginner understanding of JavaScript syntax
 3. Have a good understanding of HTML5 and CSS
-4. Have a begginer understanding of SQL - preferrably MySQL syntax
+4. Have a beginner understanding of SQL - preferably MySQL syntax
+5. Have a working understanding of git
 
 I encourage you to revise these concepts before you dive in. It would also be nice to have a general awareness of
 
@@ -54,8 +55,8 @@ The application code will progressively be enhanced day by day, so you can follo
 own page, with the rationale behind the change and resources to better understand the underlying concept. It is highly encouraged to follow 
 along locally and experiment.
 
-# Ackgnowledgements 
+# Acknowledgements 
 Special thanks to [David Åse](https://github.com/tipsy) for creating and maintaining javalin, and to the flyway, javalin, vue, docker, and 
-JDBI maintainers and contributor community for their hard work that gave us the tech on which we can build our ideas. Additionally thanks go to [Thinkster](https://thinkster.io) for their [RealWorld](https://github.com/gothinkster/realworld) demo app idea, which heavily enspired the project this course uses as an example. Lastly, I'd like to thank the [Jekyll](https://jekyllrb.com/) and [Reveal.js](https://revealjs.com/) communities, without whom this website wouldnt even exist.
+JDBI maintainers and contributor community for their hard work that gave us the tech on which we can build our ideas. Additionally thanks go to [Thinkster](https://thinkster.io) for their [RealWorld](https://github.com/gothinkster/realworld) demo app idea, which heavily inspired the project this course uses as an example. Lastly, I'd like to thank the [Jekyll](https://jekyllrb.com/) and [Reveal.js](https://revealjs.com/) communities, without whom this website wouldn't even exist.
 
 {% include pager.html %}
