@@ -67,13 +67,11 @@ I Recommend using [DBeaver Community Edition](https://dbeaver.io/download/){:tar
 
 
 ## Git
-
 You will need a Git Desktop Client, such as [Github Desktop](https://desktop.github.com/){:target="_blank"} 
 or [Sourcetree](https://www.sourcetreeapp.com/){:target="_blank"} installed. You will also need the Git CLI installed, which is available on the [Git Website](https://git-scm.com/downloads){:target="_blank"}.
 
 
 ## Heroku CLI
-
 We will be using the Heroku CLI to deploy our finished application to the cloud. You can find install instructions for all platforms on the 
 [Heroku DevCenter](https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli){:target="_blank"}.
 
