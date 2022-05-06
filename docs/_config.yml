@@ -15,7 +15,8 @@
 # in the templates via {{ site.myvariable }}.
 title: X Days of Javalin
 email: kirreshtareq@gmail.com
-description: X Days of Javalin
+description: X Days of Javalin is a fullstack course for java developers to learn how to effectively and quickly create fullstack web apps
+tagline: The micro-course for the micro-framework
 baseurl: "/x-days-of-javalin" # the subpath of your site, e.g. /blog
 url: "https://tareqkirresh.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: TareqK
