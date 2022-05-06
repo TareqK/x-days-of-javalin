@@ -7,21 +7,24 @@ nav_order: 1
 ---
 
 # What X-Days of Javalin is 
-Welcome to X-Days of Javalin! This is a self-study code challenge/camp that aims to get you up and running in developing fullstack 
-web-applications in javalin. The stack chosen here is to add a tool to *your* toolbox for quick prototyping and development of web applications. At the end of this course, you should be able to 
+Hello There! My Name is [Tareq Kirresh](https://www.linkedin.com/in/tareq-kirresh){:target="_blank"}, software engineer and open source
+contributor & advocate. X-Days of Javalin is a self-study course/camp I made based on my experiences that aims to 
+get you up and running in developing fullstack web-applications in javalin. The Stack you see here based on a holistic approach
+to technology, based on specialized individual libraries and tools, which make a great addition to any software engineer's toolbox, that 
+add up to a complete stack which works great for both prototyping and quick development of web applications.
+At the end of this course, you should be able to 
 
-1. Write Rest APIs using Javalin
-2. Manage your Data in SQL
-4. Version and Manage a Schema using Code
-3. Create and Integrate a Frontend
-5. Deploy your web application on a public cloud
+1. Write Rest APIs using [Javalin](https://javalin.io){:target="_blank"}
+2. Manage your Data in [MariaDB](https://mariadb.org/){:target="_blank"}/[MySQL](https://www.mysql.com/){:target="_blank"} using [JDBI](https://jdbi.org){:target="_blank"}
+4. Version and Manage a Schema as Code Using [FlyWay](https://flywaydb.org){:target="_blank"}
+3. Create and Integrate a Frontend using [JavalinVue](https://javalin.io/plugins/javalinvue){:target="_blank"}
+5. Deploy your web application on a public cloud using [Docker](https://docker.io){:target="_blank"} and [Heroku](https://heroku.com){:target="_blank"}
 
-Along the way, you will be exposed to various technologies and terminologies. Where appropriate, you will be provided with outlinks if
-you want to dive deeper into an aspect, or general knowledge.
+Along the way, you will be exposed to various concepts and terminologies, and where possible, you will have tonnes of outlinks if
+you want to dive deeper into an aspect, or for your general knowledge.
 
-This course is highly opinionated - this might not be the optimal flow for *your* case or organization, so please note that the implementation 
-here can be done in a different way, and this course is by no means the authority for developing fullstack applications using javalin, and the 
-design and architecture patterns used here are by no means the only viable or even best ones.
+This course is highly opinionated - the development flow and structure might not be the optimal flow for *your* case or organization,
+and the implementation here can be done in several different ways. This course is by no means the authority for developing fullstack applications using javalin, and the design and architecture patterns used here are by no means the only viable or even best ones.
 
 # What X-Days of Javalin is not
 X-Days of Javalin is *not* a full code camp that will take you from zero to hero in development, and you should not treat it as such.
@@ -34,6 +37,7 @@ To get the best out of this course, you should at least
 3. Have a good understanding of HTML5 and CSS
 4. Have a beginner understanding of SQL - preferably MySQL syntax
 5. Have a working understanding of git
+6. Be Generally comfortable(or willing to get comfortable) with the commandline
 
 I encourage you to revise these concepts before you dive in. It would also be nice to have a general awareness of
 
@@ -41,8 +45,7 @@ I encourage you to revise these concepts before you dive in. It would also be ni
 2. S.O.L.I.D Principles
 
 # Structure & Plan
-For this course, we will be building a (simplified) clone of [Medium](https://medium.com). This will be done across 6 modules, with 
-each module being composed of multiple days of learning - but may take you longer or less time  to complete - this course is completely self-paced. The 6 modules are
+For this course, we will be building a (simplified) clone of [Medium](https://medium.com){:target="_blank"}. This will be done across 6 modules, with each module being composed of multiple days of learning - but may take you longer or less time  to complete - this course is completely self-paced. The 6 modules are
 
 1. Introduction
 2. Javalin Concepts
@@ -56,7 +59,11 @@ own page, with the rationale behind the change and resources to better understan
 along locally and experiment.
 
 # Acknowledgements 
-Special thanks to [David Åse](https://github.com/tipsy) for creating and maintaining javalin, and to the flyway, javalin, vue, docker, and 
-JDBI maintainers and contributor community for their hard work that gave us the tech on which we can build our ideas. Additionally thanks go to [Thinkster](https://thinkster.io) for their [RealWorld](https://github.com/gothinkster/realworld) demo app idea, which heavily inspired the project this course uses as an example. Lastly, I'd like to thank the [Jekyll](https://jekyllrb.com/) and [Reveal.js](https://revealjs.com/) communities, without whom this website wouldn't even exist.
+Special thanks to [David Åse](https://github.com/tipsy){:target="_blank"} for creating and maintaining javalin, and to the flyway, javalin, 
+vue, docker, and JDBI maintainers and contributor community for their hard work that gave us the tech on which we can build our ideas. 
+Additionally thanks go to [Thinkster](https://thinkster.io){:target="_blank"} for their 
+[RealWorld](https://github.com/gothinkster/realworld){:target="_blank"} demo app idea, which heavily inspired the project this course uses as 
+an example. Lastly, I'd like to thank the [Jekyll](https://jekyllrb.com/){:target="_blank"} and 
+[Reveal.js](https://revealjs.com/){:target="_blank"} communities, without whom this website wouldn't even exist.
 
 {% include pager.html %}

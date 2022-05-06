@@ -7,7 +7,8 @@ next_page: ../days/day_0
 previous_page: ../index
 has_toc: false
 ---
-In this module, we are going to be setting up our development environment, and making sure we have everything we need to hit the 
+# Introduction
+In This module, we are going to be setting up our development environment, and making sure we have everything we need to hit the 
 ground running. We will start off by creating a project, defining dependencies, and doing a quick "Hello World" example to make sure 
 everything works.
 

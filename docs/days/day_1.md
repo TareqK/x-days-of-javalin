@@ -7,3 +7,4 @@ has_children: false
 next_page: ../days/day_2
 previous_page: ../days/day_0
 ---
+# Day 1 : Hello World!
