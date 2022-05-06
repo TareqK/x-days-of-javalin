@@ -1,6 +1,6 @@
 ---
 title: Welcome! 
-description: X-Days of Javalin | The micro-course for the micro-framework | About the course (who, what, why), plan, pre-requisites, and structure.
+description: Welcome to X-Days of Javalin, a course for fullstack development using javalin. We'll be talking about the course (who, what, why), it's plan, the pre-requisites, and overall structure.
 layout: home
 next_page: introduction/introduction
 nav_order: 1
