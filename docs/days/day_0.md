@@ -19,9 +19,9 @@ are used for. For this course, we will need the following tools installed
 1. JDK 11
 2. Your Java IDE of choice
 3. Maven
-4. Docker(or Docker Desktop)
+4. Docker
 5. MariaDB or MySQL
-6. DBeaver (or any Database Workbench/Browser)
+6. DBeaver
 7. Git
 8. Heroku CLI
 
