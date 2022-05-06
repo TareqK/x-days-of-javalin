@@ -14,6 +14,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: X Days of Javalin
+author:
+  name: Tareq Kirresh
+  url: https://tareqkirresh.com
+  email: kirreshtareq@gmail.com
 email: kirreshtareq@gmail.com
 description: X Days of Javalin is a fullstack course for java developers to learn how to effectively and quickly create fullstack web apps
 tagline: The micro-course for the micro-framework
