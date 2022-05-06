@@ -1,12 +1,12 @@
 ---
-title: Home 
-description: X-Days of Javalin Homepage 
+title: Welcome! 
+description: About the course (who, what, why), plan, pre-requisites, and structure.
 layout: home
 next_page: introduction/introduction
 nav_order: 1
 ---
 
-# What X-Days of Javalin is 
+# Welcome!  
 Hello There! My Name is [Tareq Kirresh](https://www.linkedin.com/in/tareq-kirresh){:target="_blank"}, software engineer and open source
 contributor & advocate. X-Days of Javalin is a self-study course/camp I made based on my experiences that aims to 
 get you up and running in developing fullstack web-applications in javalin. The Stack you see here based on a holistic approach
@@ -26,7 +26,6 @@ you want to dive deeper into an aspect, or for your general knowledge.
 This course is highly opinionated - the development flow and structure might not be the optimal flow for *your* case or organization,
 and the implementation here can be done in several different ways. This course is by no means the authority for developing fullstack applications using javalin, and the design and architecture patterns used here are by no means the only viable or even best ones.
 
-# What X-Days of Javalin is not
 X-Days of Javalin is *not* a full code camp that will take you from zero to hero in development, and you should not treat it as such.
 
 # Pre-Requisites
