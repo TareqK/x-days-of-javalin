@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduction
-description: Introduction - Module overview.
+description: Introduction | Module overview.
 nav_order: 2
 has_children: true
 next_page: ../days/day_0
