@@ -1,6 +1,6 @@
 ---
 title: Welcome! 
-description: About the course (who, what, why), plan, pre-requisites, and structure.
+description: X-Days of Javalin | The micro-course for the micro-framework | About the course (who, what, why), plan, pre-requisites, and structure.
 layout: home
 next_page: introduction/introduction
 nav_order: 1
