@@ -24,6 +24,7 @@ are used for. For this course, we will need the following tools installed
 6. DBeaver
 7. Git
 8. Heroku CLI
+9. Postman
 
 ## JDK 11
 For this course, we will be using JDK 11. JDK stands for **J**ava **D**evelopment **K**it, which is a set of tools and libs for developing
@@ -77,4 +78,11 @@ We will be using the Heroku CLI to deploy our finished application to the cloud.
 [Heroku DevCenter](https://devcenter.heroku.com/articles/heroku-cli#install-the-heroku-cli){:target="_blank"}.
 
 
-With all that done, we should get started on the actual project.
+
+## Postman
+We will be using Postman to test out and debug our REST APIs during development. You can download Postman from the [Postman Website](https://www.postman.com/downloads/){:target="_blank"}. You can also use any equivalent REST API client such as 
+[Insomnia](https://insomnia.rest/){:target="_blank"}
+
+Now that you have installed all the tools we need, and made sure they are all (hopefully) running correctly, 
+let's get started with our project.
+
