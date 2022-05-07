@@ -10,8 +10,6 @@ previous_page: ../introduction/introduction
 has_toc: no
 ---
 
-# Day 0 : Setup and configuration
-
 ## Outline
 In this day, we will be setting up your local environment, downloading all the tools you need and explaining what they are and what they
 are used for. For this course, we will need the following tools installed

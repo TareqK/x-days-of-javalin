@@ -46,3 +46,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+github_repo_tree_root: https://github.com/TareqK/x-days-of-javalin/tree/master
