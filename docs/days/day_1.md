@@ -137,7 +137,7 @@ The full docs for the ``Context`` class can be found on the
 Javalin can handle many http methods in its routes, such as ``get``,``put``,``post``,``delete``, 
 etc, and can return responses in multiple formats, all of which we will get into later on in the course.
 
-Lastly, we start our application server, which is what we did using 
+Lastly, we ran our application server, which is what we did using 
 ```java
 app.start(8080);
 ```
