@@ -4,7 +4,7 @@ parent: Introduction
 title: "Day 0 : Setup and Configuration"
 nav_order: 1
 has_children: false
-description: Introduction | Installing all the tools and bits you need.
+description: Introduction | Tool installation and explanation
 next_page: ../days/day_1
 previous_page: ../introduction/introduction
 has_toc: no

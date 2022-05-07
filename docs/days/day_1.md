@@ -2,6 +2,7 @@
 layout: day
 parent: Introduction
 title: "Day 1 : Hello World!"
+description: Introduction | Project setup and hello world
 nav_order: 2
 has_children: false
 next_page: ../days/day_2
